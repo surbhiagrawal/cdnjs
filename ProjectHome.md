@@ -1,0 +1,1 @@
+cloudflare is not stable in Asia, so I clone cdnjs's project from github and hosting in google code.
